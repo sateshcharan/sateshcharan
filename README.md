@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://twitter.com/sateshcharans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satesh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sateshcharan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satesh" height="30" width="40" /></a>
-<a href="https://codesandbox.com/satesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="satesh" height="30" width="40" /></a>
+<!-- <a href="https://codesandbox.com/satesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="satesh" height="30" width="40" /></a>
 <a href="https://fb.com/satesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="satesh" height="30" width="40" /></a>
 <a href="https://instagram.com/satesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satesh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/satesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="satesh" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/satesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="satesh" height="30" width="40" /></a> -->
 </p>
 
 [![An image of @sateshcharan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sateshcharan)](https://holopin.io/@sateshcharan)

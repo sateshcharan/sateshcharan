@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<p align="left"> <a href="https://twitter.com/satesh" target="blank"><img src="https://img.shields.io/twitter/follow/satesh?logo=twitter&style=for-the-badge" alt="satesh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sateshcharans" target="blank"><img src="https://img.shields.io/twitter/follow/satesh?logo=twitter&style=for-the-badge" alt="satesh" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
